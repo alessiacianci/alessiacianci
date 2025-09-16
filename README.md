@@ -1,16 +1,25 @@
 ## Hi there 👋
 
 <!--
-**alessiacianci/alessiacianci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hello, world!
 
-Here are some ideas to get you started:
+🎓 Student of **Systems Analysis and Development**  
+🚀 Starting my journey into the world of **programming**  
+📚 Currently learning programming logic and exploring new languages
+🌱 Always eager to learn and grow!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+💡 *Just getting started, but full of motivation to grow in tech!*  
+✨ Soon you'll find my first projects right here.  
+🛠️ GitHub will be my learning journal!
+
+---
+
+🌐 Let's connect:
+- 📧 [ciancialessia@gmail.com]
+- 💼 [LinkedIn or other professional link, optional]
+
+---
+
 -->
