@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-### 👋 Hello, world!
+## 👋 Hello, world!
 
 🎓 Student of **Systems Analysis and Development**  
 🚀 Starting my journey into the world of **programming**  
@@ -14,6 +11,4 @@
 
 🌐 Let's connect:
 - 📧 [ciancialessia@gmail.com]
-- 💼 [LinkedIn or other professional link, optional]
-
--->
+- 💼 []
